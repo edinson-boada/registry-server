@@ -1,10 +1,10 @@
-package com.nttdata.project01.registryservice;
+package com.nttdata.project.registryserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RegistryServiceApplicationTests {
+class RegistryServerApplicationTests {
 
 	@Test
 	void contextLoads() {
